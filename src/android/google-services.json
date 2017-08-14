@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899808518554",
+    "firebase_url": "https://flporganizer-176213.firebaseio.com",
+    "project_id": "flporganizer-176213",
+    "storage_bucket": "flporganizer-176213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899808518554:android:8bd90361118adbf9",
+        "android_client_info": {
+          "package_name": "com.FLPOrganizer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714159872018-kb8sqb1ljvda662eaqtfv5ktgvg3utsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnI07Io-sZBB9C1gO7OQkTdEjmYPC1AY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
