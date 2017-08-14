@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-2534869443156337/1223399538</string>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-2534869443156337/9990619833</string>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>714159872018-6igl3umuoh1e904a4qdpek4gfp8jui6j.apps.googleusercontent.com</string>
+	<string>899808518554-r0n55li36scp0i3ocj89lq3ks4e21rlq.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>714159872018-kb8sqb1ljvda662eaqtfv5ktgvg3utsl.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.899808518554-r0n55li36scp0i3ocj89lq3ks4e21rlq</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCpnI07Io-sZBB9C1gO7OQkTdEjmYPC1AY</string>
+	<string>AIzaSyB-O0-SaPm_dxRL57xM0HHoJ7VXquK9TIQ</string>
 	<key>GCM_SENDER_ID</key>
 	<string>899808518554</string>
 	<key>PLIST_VERSION</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:899808518554:android:8bd90361118adbf9</string>
+	<string>1:899808518554:ios:8bd90361118adbf9</string>
 	<key>DATABASE_URL</key>
 	<string>https://flporganizer-176213.firebaseio.com</string>
 </dict>
