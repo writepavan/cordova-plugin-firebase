@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-2534869443156337/1223399538</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-2534869443156337/9990619833</string>
+	<key>CLIENT_ID</key>
+	<string>714159872018-6igl3umuoh1e904a4qdpek4gfp8jui6j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>714159872018-kb8sqb1ljvda662eaqtfv5ktgvg3utsl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpnI07Io-sZBB9C1gO7OQkTdEjmYPC1AY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>899808518554</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FLPOrganizer.app</string>
+	<key>PROJECT_ID</key>
+	<string>flporganizer-176213</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flporganizer-176213.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:899808518554:android:8bd90361118adbf9</string>
+	<key>DATABASE_URL</key>
+	<string>https://flporganizer-176213.firebaseio.com</string>
 </dict>
 </plist>
